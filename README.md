@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
-- 🤔 I'm currently working on an async fifo verilog project 
+- 🤔 I'm currently building an entirely custom electric skateboard, including the powerboard, motor controller, and onboard firmware!
 - 💬 Ask me about Embedded Systems, I'd love to collaborate on a project!
 - 😄 Pronouns: He/His/Him
